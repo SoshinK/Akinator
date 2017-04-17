@@ -1,0 +1,9 @@
+#ifdef AKINATOR_MENU
+
+AKINATOR(PLAY, play())
+AKINATOR(SHOW_BASE, dump())
+AKINATOR(DISCRIPTION, definition())
+AKINATOR(COMPARE, compare())
+AKINATOR(REFERENCE, reference())
+AKINATOR(EXIT, exit())
+#endif
